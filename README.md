@@ -6,5 +6,5 @@ Main Features of System:
 - Monitor device energy consumption in real-time.
 - Using FireBase and MQTT.
 -----------------------------
-Video Demo:
-References sources:
+- Video Demo:
+- References sources:
