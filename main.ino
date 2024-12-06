@@ -13,21 +13,21 @@
 PZEM004Tv30 pzem(PZEM_SERIAL, PZEM_RX_PIN, PZEM_TX_PIN);
 
 // 2.4 GHz WiFi name and password
-#define WIFI_SSID  "SevenTeen DuPhong" // "Hoai Nam" 
-#define WIFI_PASSWORD "xincamon" // "17092003"
+#define WIFI_SSID  "****"
+#define WIFI_PASSWORD "****"
 // The API key can be obtained from Firebase console > Project Overview > Project settings.
-#define API_KEY "AIzaSyC8TiPqUtvYuUmQnKv9OXLULc1ENnltZ6k"
+#define API_KEY "*****"
 
 // User Email and password that already registerd or added in your project.
-#define USER_EMAIL "namtranhoai179.3@gmail.com"
-#define USER_PASSWORD "17092003"
-#define DATABASE_URL "https://energy-system-esp32-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define USER_EMAIL "****"
+#define USER_PASSWORD "****"
+#define DATABASE_URL "****"
 
 // MQTT Broker Settings
 const char *mqtt_broker = "broker.emqx.io";
 const char *mqtt_topic = "emqx/esp32";
-const char *mqtt_username = "namth1793";
-const char *mqtt_password = "17092003";
+const char *mqtt_username = "****";
+const char *mqtt_password = "****";
 const int mqtt_port = 1883;
 
 // Function Declarations
