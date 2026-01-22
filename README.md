@@ -1,6 +1,6 @@
 # Smart Energy Management System with ESP32
 
-This repository contains the source code and project files for a **Smart Energy Management System** based on the **ESP32 microcontroller**. This project was developed as part of a university course on IoT Architecture and demonstrates real-time monitoring and control of energy consumption using IoT techniques. :contentReference[oaicite:0]{index=0}
+This repository contains the source code and project files for a **Smart Energy Management System** based on the **ESP32 microcontroller**. This project was developed as part of a university course on IoT Architecture and demonstrates real-time monitoring and control of energy consumption using IoT techniques.
 
 ---
 
@@ -9,14 +9,14 @@ This repository contains the source code and project files for a **Smart Energy 
 The aim of this system is to provide a **smart way to monitor and manage energy usage** of electrical devices using an ESP32 board. The system:
 - Reads electrical parameters (e.g., power consumption) using connected sensors,
 - Sends data to a cloud backend for storage and visualization,
-- Enables device control via mobile applications or network interfaces. :contentReference[oaicite:1]{index=1}
+- Enables device control via mobile applications or network interfaces.
 
 Fundamental components include:
 - **ESP32 development board**
 - **Energy/current sensors**
 - **Wi-Fi connectivity**
 - **Firebase backend**
-- **MQTT communication** :contentReference[oaicite:2]{index=2}
+- **MQTT communication**
 
 ---
 
@@ -28,7 +28,7 @@ The system currently supports:
 - **Control of connected electrical devices**
 - **Voice control from smartphone app**
 - **Data storage on Firebase**
-- **MQTT based communication between device and server** :contentReference[oaicite:3]{index=3}
+- **MQTT based communication between device and server** 
 
 ---
 
